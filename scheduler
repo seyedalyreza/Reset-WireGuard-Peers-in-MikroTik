@@ -1,0 +1,2 @@
+/system scheduler add interval=10m name=reset-peers-inactive on-event=reset-peers-inactive policy=ftp,reboot,read,write,policy,test,password,sniff,sensitive,romon start-date=2024-06-02 \
+    start-time=05:51:34
